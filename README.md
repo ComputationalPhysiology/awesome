@@ -53,7 +53,9 @@ Here we would like to collect links to everything that you find awesome. If you 
 
 - [CBCBeat](https://bitbucket.org/meg/cbcbeat/src) - an adjoint-enabled framework for computational cardiac electrophysiology
 
-- [CARP](https://carp.medunigraz.at)
+- [CARP](https://carp.medunigraz.at) 
+
+- [openCARP](https://opencarp.org/) - open source version of CARP
 
 ### Electromechanics
 
