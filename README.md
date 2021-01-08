@@ -40,6 +40,10 @@ Here we would like to collect links to everything that you find awesome. If you 
 
 - [Ipopt](https://github.com/coin-or/Ipopt) - Ipopt (Interior Point OPTimizer, pronounced eye-pea-Opt) is a software package for large-scale nonlinear optimization
 
+- [Optizelle](https://www.optimojoe.com/products/optizelle/)  - An Open Source Software Library Designed To Solve General Purpose Nonlinear Optimization Problems
+
+- [Moola](https://github.com/funsim/moola) - A set of optimisation algorithms specifically designed for PDE-constrained optimisation problems to be used with dolfin-adjoint.
+
 
 ## Simulation software
 
