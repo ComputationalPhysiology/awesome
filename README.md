@@ -28,6 +28,18 @@ Here we would like to collect links to everything that you find awesome. If you 
 
 - [Blender](https://www.blender.org) - open source modeling, rigging, animation, simulation, rendering, compositing and motion tracking, even video editing and game creation
 
+## Optimization
+
+- [pagmo](https://esa.github.io/pagmo2/) - pagmo is a C++ scientific library for massively parallel optimization
+
+- [pygmo](https://esa.github.io/pygmo2/index.html) - pygmo is a scientific Python library for massively parallel optimization based on pagmo.
+
+- [pymo](https://pymoo.org) - Multiobjective optimization in python
+
+- [NLopt](https://nlopt.readthedocs.io/en/latest/) - NLopt is a free/open-source library for nonlinear optimization,
+
+- [Ipopt](https://github.com/coin-or/Ipopt) - Ipopt (Interior Point OPTimizer, pronounced eye-pea-Opt) is a software package for large-scale nonlinear optimization
+
 
 ## Simulation software
 
