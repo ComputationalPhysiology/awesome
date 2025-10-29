@@ -89,7 +89,7 @@ Here we would like to collect links to everything that you find awesome. If you 
 
 ## Meshes
 
--[Four-chamber heart meshes](https://zenodo.org/records/3890034) - A publicly available virtual cohort of four-chamber heart meshes for cardiac electro-mechanics simulations https://doi.org/10.1371/journal.pone.0235145
+- [Four-chamber heart meshes](https://zenodo.org/records/3890034) - A publicly available virtual cohort of four-chamber heart meshes for cardiac electro-mechanics simulations https://doi.org/10.1371/journal.pone.0235145
 
 ## Open Data
 
