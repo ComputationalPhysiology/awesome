@@ -78,7 +78,7 @@ Here we would like to collect links to everything that you find awesome. If you 
 
 ### Cellular modeling
 
-- [gotran](https://github.com/ComputationalPhysiology/gotran) - Library for declaring ODEs
+- [gotranx](https://github.com/finsberg/gotranx) - Library for declaring ODEs
 
 - [Myokit](http://www.myokit.org) - Python based software package designed to simplify the use of numerical models in the analysis of cardiac myocytes. 
 
