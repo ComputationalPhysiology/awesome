@@ -9,10 +9,12 @@ Here we would like to collect links to everything that you find awesome. If you 
 - [MeVisLab](http://www.mevislab.de/mevislab/) - a powerful, modular framework for image processing research and development with a special focus on medical imaging
 - [VMTK](http://www.vmtk.org/) - collection of libraries and tools for 3D reconstruction, geometric analysis, mesh generation and surface data analysis for image-based modeling of blood vessels
 - [ITK](https://itk.org) - The toolkit provides leading-edge segmentation and registration algorithms in two, three, and more dimensions
-- [Seg3D](http://www.sci.utah.edu/cibc-software/seg3d.html) - Seg3D combines a flexible manual segmentation interface with powerful higher-dimensional image processing and segmentation algorithms from the Insight Toolkit.
+- [Seg3D](https://github.com/SCIInstitute/Seg3D) - Seg3D combines a flexible manual segmentation interface with powerful higher-dimensional image processing and segmentation algorithms from the Insight Toolkit.
 - [saxomode](https://computationalphysiology.github.io/MAD-SSA/README.html) - open-source toolkit for 3D ventricular shape analysis from cardiac magnetic resonance short axis view medical images.
+
 ## Image Segmentation
 - [DeepValve](https://github.com/giuliamonopoli/deepvalve-paper) - Automatic detection pipeline for the mitral valve in 4ch CMR.
+
 ## Mesh generation
 
 - [GMSH](http://gmsh.info) - A three-dimensional finite element mesh generator with built-in pre- and post-processing facilities
@@ -20,7 +22,7 @@ Here we would like to collect links to everything that you find awesome. If you 
 - [TetGen](http://wias-berlin.de/software/tetgen/) - A Quality Tetrahedral Mesh Generator and a 3D Delaunay Triangulator
 - [fTetWild](https://github.com/wildmeshing/fTetWild.git) - A high-quality tetrahedral meshes generator
 - [MyoMesh](https://github.com/FISIOCOMP-UFJF/MyoMesh.git) - A pipeline for generating patient-specific heart meshes and converting them to a format suitable for electrophysiological simulations
-- [Cleaver](http://sci.utah.edu/cibc-software/cleaver.html) - A multimaterial tetrahedral meshing library and application
+- [Cleaver](https://github.com/SCIInstitute/Cleaver) - A multimaterial tetrahedral meshing library and application 
 
 ## Gemetric modeling
 
@@ -66,8 +68,9 @@ Here we would like to collect links to everything that you find awesome. If you 
 
 ### Electromechanics
 
-- [SciRun](http://www.sci.utah.edu/cibc-software/scirun.html) - Problem solving environment for modelling, simulation and visualization
-- [Chaste](https://github.com/Chaste/Chaste) - Cancer Heart And Soft Tissue Environment
+- [SciRun](https://github.com/SCIInstitute/SCIRun) - Problem solving environment for modelling, simulation and visualization
+- [Chaste](https://github.com/Chaste/Chaste) - Cancer Heart And Soft Tissue Environment 
+
 
 ### Cellular modeling
 
@@ -83,8 +86,8 @@ Here we would like to collect links to everything that you find awesome. If you 
 
 - [Paraview](https://www.paraview.org) - open-source, multi-platform data analysis and visualization application.
 - [VTK](https://vtk.org) - The Visualization Toolkit (VTK) is an open-source, freely available software system for 3D computer graphics, image processing, and visualization
-- [ImageVis3D](http://sci.utah.edu/cibc-software/imagevis3d.html) - Volume rendering program
-- [FluoRender](http://www.sci.utah.edu/software/fluorender.html) - Interactive tool for multi-channel fluorescence microscopy data visualization and analysis
+- [ImageVis3D](https://github.com/SCIInstitute/ImageVis3D) - Volume rendering program
+- [FluoRender](https://github.com/SCIInstitute/fluorender) - Interactive tool for multi-channel fluorescence microscopy data visualization and analysis
 - [Map3D](http://sci.utah.edu/cibc-software/map3d.html) - Scientific visualization application to display and edit complex, three-dimensional geometric models and the scalar data associated with those models. The map3d interface provides interactive display of both geometry and data assigned to elements of that geometry
 - [Plotly](https://plotly.com/python/) - Nice visualizations of plots.
 
