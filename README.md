@@ -55,6 +55,7 @@ Here we would like to collect links to everything that you find awesome. If you 
 
 - [fenicsx-pulse](https://github.com/finsberg/fenicsx-pulse/) - Cardiac mechanics simulator based on FEniCSx
 - [pulse](https://github.com/ComputationalPhysiology) - Cardiac mechanics simulator based on FEniCS
+- [circulation](https://github.com/computationalPhysiology/circulation) - 0D/1D blood flow simulator
 
 ### Electrophysiology
 
