@@ -51,7 +51,7 @@ Here we would like to collect links to everything that you find awesome. If you 
 
 #### Finite element
 
-- [FEniCS](https://fenicsproject.org) - Open source computing platform for solving PDEs in Python
+- [FEniCSx](https://fenicsproject.org) - Open source computing platform for solving PDEs in Python
 - [OpenCMISS](http://opencmiss.org) - Modelling and visualisation for complex bioengineering problems.
 - [BVPy](https://gitlab.com/oali/bvpy) - Bvpy is a python library, based on FEniCS, Gmsh & Meshio, to easily implement and study numerically Boundary Value Problems and Initial Boundary Value Problems through the Finite Element Method.
 
