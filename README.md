@@ -64,8 +64,6 @@ Here we would like to collect links to everything that you find awesome. If you 
 
 - [pulse](https://github.com/ComputationalPhysiology) - Cardiac mechanics simulator based on FEniCS
 
-- [pulse-adjoint](https://github.com/ComputationalPhysiology/pulse_adjoint) - Data assimilation tool based on pulse
-
 ### Electrophysiology
 
 - [CBCBeat](https://bitbucket.org/meg/cbcbeat/src) - an adjoint-enabled framework for computational cardiac electrophysiology
