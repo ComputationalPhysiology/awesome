@@ -99,9 +99,7 @@ Here we would like to collect links to everything that you find awesome. If you 
 
 - [VTK](https://vtk.org) - The Visualization Toolkit (VTK) is an open-source, freely available software system for 3D computer graphics, image processing, and visualization
 
-- [ImageVis3D](http://sci.utah.edu/cibc-software/imagevis3d.html) - Volume rendering program
-
-- [ImageVis3D](https://github.com/SCIInstitute/ImageVis3D) - New Link
+- [ImageVis3D](https://github.com/SCIInstitute/ImageVis3D) - Volume rendering program
 
 - [FluoRender](https://github.com/SCIInstitute/fluorender) - Interactive tool for multi-channel fluorescence microscopy data visualization and analysis
 
