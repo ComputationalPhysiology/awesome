@@ -12,9 +12,7 @@ Here we would like to collect links to everything that you find awesome. If you 
 
 - [ITK](https://itk.org) - The toolkit provides leading-edge segmentation and registration algorithms in two, three, and more dimensions
 
-- [Seg3D](http://www.sci.utah.edu/cibc-software/seg3d.html) - Seg3D combines a flexible manual segmentation interface with powerful higher-dimensional image processing and segmentation algorithms from the Insight Toolkit.
-
-- [seg3D](https://github.com/SCIInstitute/Seg3D)  This the new link  sci.utah.edu is not work
+- [Seg3D](https://github.com/SCIInstitute/Seg3D) - Seg3D combines a flexible manual segmentation interface with powerful higher-dimensional image processing and segmentation algorithms from the Insight Toolkit.
 
 ## Mesh generation
 
@@ -24,9 +22,7 @@ Here we would like to collect links to everything that you find awesome. If you 
 
 - [TetGen](http://wias-berlin.de/software/tetgen/) - A Quality Tetrahedral Mesh Generator and a 3D Delaunay Triangulator
 
-- [Cleaver](http://sci.utah.edu/cibc-software/cleaver.html) - A multimaterial tetrahedral meshing library and application
-
-- [Cleaver](https://github.com/SCIInstitute/Cleaver) - sci.utah.edu. is not working 
+- [Cleaver](https://github.com/SCIInstitute/Cleaver) - A multimaterial tetrahedral meshing library and application 
 
 ## Gemetric modeling
 
@@ -79,9 +75,7 @@ Here we would like to collect links to everything that you find awesome. If you 
 
 ### Electromechanics
 
-- [SciRun](http://www.sci.utah.edu/cibc-software/scirun.html) - Problem solving environment for modelling, simulation and visualization
-
-- [SciRun](https://github.com/SCIInstitute/SCIRun) - new Link
+- [SciRun](https://github.com/SCIInstitute/SCIRun) - Problem solving environment for modelling, simulation and visualization
 
 - [Chaste](https://github.com/Chaste/Chaste) - Cancer Heart And Soft Tissue Environment 
 
@@ -109,8 +103,6 @@ Here we would like to collect links to everything that you find awesome. If you 
 
 - [ImageVis3D](https://github.com/SCIInstitute/ImageVis3D) - New Link
 
-- [FluoRender](http://www.sci.utah.edu/software/fluorender.html) - Interactive tool for multi-channel fluorescence microscopy data visualization and analysis
-
-- [FluoRender](https://github.com/SCIInstitute/fluorender)- New Link 
+- [FluoRender](https://github.com/SCIInstitute/fluorender) - Interactive tool for multi-channel fluorescence microscopy data visualization and analysis
 
 - [Map3D](http://sci.utah.edu/cibc-software/map3d.html) - Scientific visualization application to display and edit complex, three-dimensional geometric models and the scalar data associated with those models. The map3d interface provides interactive display of both geometry and data assigned to elements of that geometry
