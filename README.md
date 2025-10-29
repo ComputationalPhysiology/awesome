@@ -85,6 +85,7 @@ Here we would like to collect links to everything that you find awesome. If you 
 - [ImageVis3D](http://sci.utah.edu/cibc-software/imagevis3d.html) - Volume rendering program
 - [FluoRender](http://www.sci.utah.edu/software/fluorender.html) - Interactive tool for multi-channel fluorescence microscopy data visualization and analysis
 - [Map3D](http://sci.utah.edu/cibc-software/map3d.html) - Scientific visualization application to display and edit complex, three-dimensional geometric models and the scalar data associated with those models. The map3d interface provides interactive display of both geometry and data assigned to elements of that geometry
+- [Plotly](https://plotly.com/python/) - Nice visualizations of plots.
 
 ## Meshes
 
