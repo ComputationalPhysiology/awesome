@@ -22,6 +22,10 @@ Here we would like to collect links to everything that you find awesome. If you 
 
 - [TetGen](http://wias-berlin.de/software/tetgen/) - A Quality Tetrahedral Mesh Generator and a 3D Delaunay Triangulator
 
+- [fTetWild](https://github.com/wildmeshing/fTetWild.git) - A high-quality tetrahedral meshes generator
+
+- [MyoMesh](https://github.com/FISIOCOMP-UFJF/MyoMesh.git) - A pipeline for generating patient-specific heart meshes and converting them to a format suitable for electrophysiological simulations
+
 - [Cleaver](http://sci.utah.edu/cibc-software/cleaver.html) - A multimaterial tetrahedral meshing library and application
 
 ## Gemetric modeling
@@ -59,6 +63,7 @@ Here we would like to collect links to everything that you find awesome. If you 
 
 - [OpenFoam](https://www.openfoam.com) - Open source CFD software
 
+- [MonoAlg3D](https://github.com/rsachetto/MonoAlg3D_C.git) A program for solving the 3D monodomain equation by applying the Finite Volume Method
 
 ### Cardiac mechanics
 
