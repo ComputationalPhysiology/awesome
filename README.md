@@ -66,6 +66,8 @@ Here we would like to collect links to everything that you find awesome. If you 
 
 ### Electrophysiology
 
+- [FEniCSx-beat](https://github.com/finsberg/fenicsx-beat/) - Cardiac electrophysiology simulator based on FEniCSx
+
 - [CBCBeat](https://bitbucket.org/meg/cbcbeat/src) - an adjoint-enabled framework for computational cardiac electrophysiology
 
 - [openCARP](https://opencarp.org/) - open source version of CARP
