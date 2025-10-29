@@ -82,4 +82,4 @@ Here we would like to collect links to everything that you find awesome. If you 
 
 ### Cardiac MRI
 
-- [M&Ms-2](https://www.ub.edu/mnms-2/) - 200 annotated images from four different centers, segmented by experienced clinicians, including contours for the left (LV) and right ventricle (RV) blood pools, as well as for the left ventricular myocardium (MYO).
+- [M&Ms-2](https://www.ub.edu/mnms-2/) - **Various RV and LV pathologies, healthy subjects**. 200 annotated images from four different centers, segmented by experienced clinicians, including contours for the left (LV) and right ventricle (RV) blood pools, as well as for the left ventricular myocardium (MYO).
